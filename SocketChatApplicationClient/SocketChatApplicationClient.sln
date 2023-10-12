@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketAsync", "SocketAsync\SocketAsync.csproj", "{53009066-32DA-435B-B611-1ABF2F44860A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketChatApplicationClient", "SocketChatApplicationClient\SocketChatApplicationClient.csproj", "{E4D3E725-1E9A-4897-81AB-605C4157CCD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53009066-32DA-435B-B611-1ABF2F44860A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53009066-32DA-435B-B611-1ABF2F44860A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53009066-32DA-435B-B611-1ABF2F44860A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53009066-32DA-435B-B611-1ABF2F44860A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4D3E725-1E9A-4897-81AB-605C4157CCD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D3E725-1E9A-4897-81AB-605C4157CCD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D3E725-1E9A-4897-81AB-605C4157CCD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D3E725-1E9A-4897-81AB-605C4157CCD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1FA3A28-5C66-453A-A449-430AC94BB8E0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\bin\Debug\SocketChatApplicationServer.exe.config
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\bin\Debug\SocketChatApplicationServer.exe
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\bin\Debug\SocketChatApplicationServer.pdb
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\bin\Debug\SocketAsync.dll
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\bin\Debug\SocketAsync.pdb
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\obj\Debug\SocketChatApplicationServer.csprojAssemblyReference.cache
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\obj\Debug\SocketChatApplicationServer.Form1.resources
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\obj\Debug\SocketChatApplicationServer.Properties.Resources.resources
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\obj\Debug\SocketChatApplicationServer.csproj.GenerateResource.cache
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\obj\Debug\SocketChatApplicationServer.csproj.CoreCompileInputs.cache
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\obj\Debug\SocketChatApplicationServer.csproj.CopyComplete
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\obj\Debug\SocketChatApplicationServer.exe
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\obj\Debug\SocketChatApplicationServer.pdb
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,15 @@
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\bin\Release\SocketChatApplicationServer.exe.config
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\bin\Release\SocketChatApplicationServer.exe
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\bin\Release\SocketChatApplicationServer.pdb
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\bin\Release\Newtonsoft.Json.dll
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\bin\Release\SocketAsync.dll
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\bin\Release\SocketAsync.pdb
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\bin\Release\Newtonsoft.Json.xml
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\obj\Release\SocketChatApplicationServer.csprojAssemblyReference.cache
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\obj\Release\SocketChatApplicationServer.Form1.resources
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\obj\Release\SocketChatApplicationServer.Properties.Resources.resources
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\obj\Release\SocketChatApplicationServer.csproj.GenerateResource.cache
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\obj\Release\SocketChatApplicationServer.csproj.CoreCompileInputs.cache
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\obj\Release\SocketChatApplicationServer.csproj.CopyComplete
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\obj\Release\SocketChatApplicationServer.exe
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketChatApplicationServer\obj\Release\SocketChatApplicationServer.pdb

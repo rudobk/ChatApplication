@@ -1,0 +1,10 @@
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\SocketChatApplicationClient\SocketAsync\bin\Release\SocketAsync.dll
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\SocketChatApplicationClient\SocketAsync\bin\Release\SocketAsync.pdb
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\SocketChatApplicationClient\SocketAsync\bin\Release\Newtonsoft.Json.dll
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\SocketChatApplicationClient\SocketAsync\bin\Release\Newtonsoft.Json.xml
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\SocketChatApplicationClient\SocketAsync\obj\Release\SocketAsync.csproj.CoreCompileInputs.cache
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\SocketChatApplicationClient\SocketAsync\obj\Release\SocketAsync.csproj.CopyComplete
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\SocketChatApplicationClient\SocketAsync\obj\Release\SocketAsync.dll
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\SocketChatApplicationClient\SocketAsync\obj\Release\SocketAsync.pdb
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\SocketChatApplicationClient\SocketAsync\bin\Release\SocketAsync.dll.config
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\SocketChatApplicationClient\SocketAsync\bin\Release\Microsoft.Win32.Primitives.dll

@@ -1,0 +1,9 @@
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketAsync\bin\Debug\SocketAsync.dll
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketAsync\bin\Debug\SocketAsync.pdb
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketAsync\obj\Debug\SocketAsync.csproj.CoreCompileInputs.cache
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketAsync\obj\Debug\SocketAsync.dll
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketAsync\obj\Debug\SocketAsync.pdb
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketAsync\obj\Debug\SocketAsync.csprojAssemblyReference.cache
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketAsync\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketAsync\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lelon\Desktop\EMBEDDED\MangVaIoT\ServerChatApplication\SocketAsync\obj\Debug\SocketAsync.csproj.CopyComplete
